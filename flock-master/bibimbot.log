@@ -1,0 +1,4 @@
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): www.googleapis.com
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.twitter.com
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.twitter.com
+INFO:root:twitter,uid,bibimbot,umich,All bots,botlist,JoseClark92,MaryJJordan1,AnnaNicholas10,MariaWoosley,JuliaMoreson,ShellyKimBim,bbenson1425,GirlsOfUMich

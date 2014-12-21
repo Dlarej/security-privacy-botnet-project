@@ -1,0 +1,17 @@
+BabesOfUMichScraper/
+Contains a scraper that outputs a file with links that load a page on our AWS instance that loads the attack link then quickly redirects to a picture gallery by passing in a URL param.
+
+IRCBotScheduler/
+Contains a custom Server and Client for manipulating the botnet into groups and scheduling them to perform certain attacks. Server takes client commands and passes them to the IRC flock.
+
+flock-master/
+Contains
+
+1) Python files relevant to registering twitter bots with our twitter app
+2) Python files relevant to our botnet and flock
+3) Python files, csv's, and outputted files analyzing files we deem fake
+
+Email/
+Contains python script that analyzes emails in the .mbox file also included. It creates a dictionary of words with counts of occurrence of each word. It is then possible to get the count per word for analysis, e.g., freshman, sophomore, junior, senior, graduated, etc.
+
+

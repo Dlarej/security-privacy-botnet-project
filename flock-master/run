@@ -1,0 +1,17 @@
+#! /bin/bash
+
+
+exec python find_fakes.py &
+
+exec python cu_stream.py &
+
+exec python cu_stream.py &
+
+exec python news_stream.py &
+
+exec python greek_stream.py &
+
+exec python activism_stream.py &
+
+exec python jobs_stream.py &
+

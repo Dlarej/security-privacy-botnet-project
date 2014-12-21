@@ -1,0 +1,145 @@
+Nov 14 18:47:40 ip-172-30-0-84 bibimbot: Loaded bot bibimbot, connecting to ix.undernet.org:6667 and channel #flock
+Nov 14 18:48:14 ip-172-30-0-84 bibimbot: Loaded bot bibimbot, connecting to ix.undernet.org:6667 and channel #flock
+Nov 14 18:53:20 ip-172-30-0-84 bibimbot: Loaded bot bibimbot, connecting to ix.undernet.org:6667 and channel #flock
+Nov 14 18:54:03 ip-172-30-0-84 bibimbot: ShellyKimBim repost attack error -> Twitter API returned a 403 (Forbidden), Application cannot perform write actions. Contact Twitter Platform Operations through https://support.twitter.com/forms/platform
+Nov 14 18:54:03 ip-172-30-0-84 bibimbot: twitter,uid,bibimbot,umich,ShellyKimBim,repost attack,Repost error: Twitter API returned a 403 (Forbidden), Application cannot perform write actions. Contact Twitter Platform Operations through https://support.twitter.com/forms/platform
+Nov 14 19:02:05 ip-172-30-0-84 bibimbot: Loaded bot bibimbot, connecting to ix.undernet.org:6667 and channel #flock
+Nov 14 19:02:59 ip-172-30-0-84 bibimbot: MaryJJordan1 error deleting tweet -> Twitter API returned a 403 (Forbidden), Application cannot perform write actions. Contact Twitter Platform Operations through https://support.twitter.com/forms/platform
+Nov 14 19:27:02 ip-172-30-0-84 bibimbot: Loaded bot bibimbot, connecting to ix.undernet.org:6667 and channel #flock
+Nov 14 19:28:00 ip-172-30-0-84 bibimbot: BIRDIE: local variable 'bot' referenced before assignment
+Nov 14 19:30:02 ip-172-30-0-84 bibimbot: Loaded bot bibimbot, connecting to ix.undernet.org:6667 and channel #flock
+Nov 14 19:30:12 ip-172-30-0-84 bibimbot: BIRDIE: local variable 'bot' referenced before assignment
+Nov 14 19:31:38 ip-172-30-0-84 bibimbot: Loaded bot bibimbot, connecting to ix.undernet.org:6667 and channel #flock
+Nov 14 19:31:51 ip-172-30-0-84 bibimbot: twitter,uid,bibimbot,umich,All bots,botlist,JoseClark92,MaryJJordan1,AnnaNicholas10,MariaWoosley,JuliaMoreson,ShellyKimBim,bbenson1425,GirlsOfUMich
+Nov 14 19:34:10 ip-172-30-0-84 bibimbot: Loaded bot bibimbot, connecting to ix.undernet.org:6667 and channel #flock
+Nov 14 19:34:19 ip-172-30-0-84 bibimbot: twitter,uid,bibimbot,umich,All bots,botlist,JoseClark92,MaryJJordan1,AnnaNicholas10,MariaWoosley,JuliaMoreson,ShellyKimBim,bbenson1425,GirlsOfUMich
+Nov 13 22:49:36 ip-172-30-0-84 bibimbot: Loaded bot bibimbot, connecting to ix.undernet.org:6667 and channel #flock
+Nov 14 00:10:36 ip-172-30-0-84 bibimbot: Loaded bot bibimbot, connecting to ix.undernet.org:6667 and channel #flock
+Nov 14 00:41:05 ip-172-30-0-84 bibimbot: JoseClark92 is tweeting Grateful for this day #sarcasm #hellweek
+Nov 14 00:41:05 ip-172-30-0-84 bibimbot: twitter,uid,bibimbot,umich,JoseClark92,tweet,[u'Grateful', u'for', u'this', u'day', u'#sarcasm', u'#hellweek']
+Nov 14 01:09:28 ip-172-30-0-84 bibimbot: Loaded bot bibimbot, connecting to ix.undernet.org:6667 and channel #flock
+Nov 14 01:23:57 ip-172-30-0-84 bibimbot: Loaded bot bibimbot, connecting to ix.undernet.org:6667 and channel #flock
+Nov 14 01:24:19 ip-172-30-0-84 bibimbot: bbenson1425 is tweeting The University owns a copy of composer Francis Scott Key’s original sheet music of the Star Spangled Banner. http://goo.gl/uFwTSp 
+Nov 12 22:25:09 ip-172-30-0-84 bibimbot: Loaded bot bibimbot, connecting to ix.undernet.org:6667 and channel #flock
+Nov 12 22:27:54 ip-172-30-0-84 bibimbot: Loaded bot bibimbot, connecting to ix.undernet.org:6667 and channel #flock
+Nov 12 22:30:42 ip-172-30-0-84 bibimbot: Loaded bot bibimbot, connecting to ix.undernet.org:6667 and channel #flock
+Nov 12 22:33:45 ip-172-30-0-84 bibimbot: Loaded bot bibimbot, connecting to ix.undernet.org:6667 and channel #flock
+Nov 12 22:34:42 ip-172-30-0-84 bibimbot: Loaded bot bibimbot, connecting to ix.undernet.org:6667 and channel #flock
+Nov 12 22:54:50 ip-172-30-0-84 bibimbot: Loaded bot bibimbot, connecting to ix.undernet.org:6667 and channel #flock
+Nov 12 22:55:01 ip-172-30-0-84 bibimbot: JoseClark92 repost attack error -> global name 'timeline' is not defined
+Nov 12 22:57:21 ip-172-30-0-84 bibimbot: Loaded bot bibimbot, connecting to ix.undernet.org:6667 and channel #flock
+Nov 12 22:57:33 ip-172-30-0-84 bibimbot: MaryJJordan1 repost attack error -> global name 'timeline' is not defined
+Nov 12 22:57:57 ip-172-30-0-84 bibimbot: Loaded bot bibimbot, connecting to ix.undernet.org:6667 and channel #flock
+Nov 12 22:58:09 ip-172-30-0-84 bibimbot: JuliaMoreson repost attack error -> global name 'timeline' is not defined
+Nov 12 22:59:35 ip-172-30-0-84 bibimbot: Loaded bot bibimbot, connecting to ix.undernet.org:6667 and channel #flock
+Nov 12 22:59:49 ip-172-30-0-84 bibimbot: MariaWoosley repost attack error -> 'NoneType' object has no attribute '__getitem__'
+Nov 12 23:00:33 ip-172-30-0-84 bibimbot: Loaded bot bibimbot, connecting to ix.undernet.org:6667 and channel #flock
+Nov 12 23:01:53 ip-172-30-0-84 bibimbot: Loaded bot bibimbot, connecting to ix.undernet.org:6667 and channel #flock
+Nov 12 23:16:09 ip-172-30-0-84 bibimbot: Loaded bot bibimbot, connecting to ix.undernet.org:6667 and channel #flock
+Nov 12 23:17:58 ip-172-30-0-84 bibimbot: MariaWoosley repost attack error -> global name 'replace_link' is not defined
+Nov 12 23:18:32 ip-172-30-0-84 bibimbot: Loaded bot bibimbot, connecting to ix.undernet.org:6667 and channel #flock
+Nov 12 23:18:53 ip-172-30-0-84 bibimbot: JoseClark92 repost attack error -> 'Twython' object has no attribute 'tweet'
+Nov 12 23:19:28 ip-172-30-0-84 bibimbot: Loaded bot bibimbot, connecting to ix.undernet.org:6667 and channel #flock
+Nov 12 23:19:57 ip-172-30-0-84 bibimbot: AnnaNicholas10 is tweeting A 
+Nov 12 23:22:22 ip-172-30-0-84 bibimbot: Loaded bot bibimbot, connecting to ix.undernet.org:6667 and channel #flock
+Nov 12 23:22:33 ip-172-30-0-84 bibimbot: ShellyKimBim is tweeting The 
+Nov 12 23:24:25 ip-172-30-0-84 bibimbot: Loaded bot bibimbot, connecting to ix.undernet.org:6667 and channel #flock
+Nov 12 23:25:22 ip-172-30-0-84 bibimbot: AnnaNicholas10 is tweeting .@john_dingell 
+Nov 12 23:25:42 ip-172-30-0-84 bibimbot: Loaded bot bibimbot, connecting to ix.undernet.org:6667 and channel #flock
+Nov 12 23:26:28 ip-172-30-0-84 bibimbot: Loaded bot bibimbot, connecting to ix.undernet.org:6667 and channel #flock
+Nov 12 23:26:40 ip-172-30-0-84 bibimbot: ShellyKimBim is tweeting Thanks to everyone who came to see us! We had a great time! #CPO #CSO #HillAuditorium http://google.com 
+Nov 13 03:24:36 ip-172-30-0-84 bibimbot: Loaded bot bibimbot, connecting to ix.undernet.org:6667 and channel #flock
+Nov 13 03:26:16 ip-172-30-0-84 bibimbot: MariaWoosley is tweeting RT @BigTenNetwork: With authority! RT @BTN_Michigan Zak Irvin w/ the steal. Zak Irvin w/ the breakaway flush. Enjoy, @umichbball fans! http
+Nov 13 03:35:34 ip-172-30-0-84 bibimbot: bbenson1425 is tweeting RT @SportsCenter: Why We Love Sports Today: Austin Hatch, 2-time plane crash survivor, makes free throw for Michigan. http://google.com 
+Nov 13 03:44:50 ip-172-30-0-84 bibimbot: Loaded bot bibimbot, connecting to ix.undernet.org:6667 and channel #flock
+Nov 13 03:47:10 ip-172-30-0-84 bibimbot: MariaWoosley is tweeting http://54.68.214.228/bibimbot/index.html 
+Nov 13 04:29:07 ip-172-30-0-84 bibimbot: Loaded bot bibimbot, connecting to ix.undernet.org:6667 and channel #flock
+Nov 13 04:31:11 ip-172-30-0-84 bibimbot: MaryJJordan1 is tweeting E.I.E.I.O? MT @michiganalumni: Old MacDonald had a farm &amp; so do @UmichStudents! Learn more: http://goo.gl/bRfswR 
+Nov 13 04:32:31 ip-172-30-0-84 bibimbot: BIRDIE: global name 'temp_tweets' is not defined
+Nov 13 04:32:59 ip-172-30-0-84 bibimbot: Loaded bot bibimbot, connecting to ix.undernet.org:6667 and channel #flock
+Nov 13 04:33:47 ip-172-30-0-84 bibimbot: bbenson1425 is tweeting "Let there be light! Sa Nimá subteam completing their circuit in record time! #SaNima #brightlight http://goo.gl/oF9SLk RT... 
+Nov 11 18:25:11 ip-172-30-0-84 bibimbot: Loaded bot bibimbot, connecting to ix.undernet.org:6667 and channel #flock
+Nov 11 18:31:13 ip-172-30-0-84 bibimbot: MariaWoosley is tweeting 
+Nov 11 18:31:14 ip-172-30-0-84 bibimbot: MariaWoosley error tweeting -> Twitter API returned a 403 (Forbidden), Application cannot perform write actions. Contact Twitter Platform Operations through https://support.twitter.com/forms/platform
+Nov 11 18:31:14 ip-172-30-0-84 bibimbot: twitter,uid,bibimbot,umich,MariaWoosley,tweet,[u'']
+Nov 11 18:31:58 ip-172-30-0-84 bibimbot: MariaWoosley is tweeting "Fuck this work, I'm ready for the weekend!"
+Nov 11 18:31:58 ip-172-30-0-84 bibimbot: MariaWoosley error tweeting -> Twitter API returned a 403 (Forbidden), Application cannot perform write actions. Contact Twitter Platform Operations through https://support.twitter.com/forms/platform
+Nov 11 18:31:58 ip-172-30-0-84 bibimbot: twitter,uid,bibimbot,umich,MariaWoosley,tweet,[u'"Fuck', u'this', u'work,', u"I'm", u'ready', u'for', u'the', u'weekend!"']
+Nov 11 18:42:30 ip-172-30-0-84 bibimbot: Loaded bot bibimbot, connecting to ix.undernet.org:6667 and channel #flock
+Nov 11 18:44:50 ip-172-30-0-84 bibimbot: bbenson1425 is tweeting 'Don't you hate is when a walrus runs over your grandmother?
+Nov 11 18:44:50 ip-172-30-0-84 bibimbot: bbenson1425 error tweeting -> Twitter API returned a 403 (Forbidden), Application cannot perform write actions. Contact Twitter Platform Operations through https://support.twitter.com/forms/platform
+Nov 11 18:44:50 ip-172-30-0-84 bibimbot: twitter,uid,bibimbot,umich,bbenson1425,tweet,[u"'Don't", u'you', u'hate', u'is', u'when', u'a', u'walrus', u'runs', u'over', u'your', u'grandmother?']
+Nov 11 18:56:43 ip-172-30-0-84 bibimbot: Loaded bot bibimbot, connecting to ix.undernet.org:6667 and channel #flock
+Nov 11 18:58:57 ip-172-30-0-84 bibimbot: JoseClark92 is tweeting Sometimes I wish I could have a pet penguin #penguins #strangepets #maybeoneday
+Nov 11 18:58:57 ip-172-30-0-84 bibimbot: JoseClark92 error tweeting -> Twitter API returned a 403 (Forbidden), Application cannot perform write actions. Contact Twitter Platform Operations through https://support.twitter.com/forms/platform
+Nov 11 18:58:57 ip-172-30-0-84 bibimbot: twitter,uid,bibimbot,umich,JoseClark92,tweet,[u'Sometimes', u'I', u'wish', u'I', u'could', u'have', u'a', u'pet', u'penguin', u'#penguins', u'#strangepets', u'#maybeoneday']
+Nov 11 19:00:06 ip-172-30-0-84 bibimbot: JoseClark92 is tweeting 'Sometimes I wish I could have a pet penguin #penguins #strangepets #maybeoneday'
+Nov 11 19:00:06 ip-172-30-0-84 bibimbot: JoseClark92 error tweeting -> Twitter API returned a 403 (Forbidden), Application cannot perform write actions. Contact Twitter Platform Operations through https://support.twitter.com/forms/platform
+Nov 11 19:00:06 ip-172-30-0-84 bibimbot: twitter,uid,bibimbot,umich,JoseClark92,tweet,[u"'Sometimes", u'I', u'wish', u'I', u'could', u'have', u'a', u'pet', u'penguin', u'#penguins', u'#strangepets', u"#maybeoneday'"]
+Nov 11 19:05:14 ip-172-30-0-84 bibimbot: Loaded bot bibimbot, connecting to ix.undernet.org:6667 and channel #flock
+Nov 11 19:06:40 ip-172-30-0-84 bibimbot: twitter,uid,bibimbot,umich,bbenson1425,tweet,[u'Sometimes', u'I', u'wish', u'I', u'had', u'a', u'pet', u'penguin', u'#penguin', u'#strangepets', u'#maybeoneday']
+Nov 11 19:06:54 ip-172-30-0-84 bibimbot: JoseClark92 is tweeting Sometimes I wish I had a pet penguin #penguin #strangepets #maybeoneday
+Nov 11 19:06:55 ip-172-30-0-84 bibimbot: JoseClark92 error tweeting -> Twitter API returned a 403 (Forbidden), Application cannot perform write actions. Contact Twitter Platform Operations through https://support.twitter.com/forms/platform
+Nov 11 19:06:55 ip-172-30-0-84 bibimbot: twitter,uid,bibimbot,umich,JoseClark92,tweet,[u'Sometimes', u'I', u'wish', u'I', u'had', u'a', u'pet', u'penguin', u'#penguin', u'#strangepets', u'#maybeoneday']
+Nov 11 19:07:13 ip-172-30-0-84 bibimbot: twitter,uid,bibimbot,umich,bbenson1425,tweet,[u'"Sometimes', u'I', u'wish', u'I', u'had', u'a', u'pet', u'penguin', u'#penguin', u'#strangepets', u'#maybeoneday"']
+Nov 11 19:07:21 ip-172-30-0-84 bibimbot: JoseClark92 is tweeting "Sometimes I wish I had a pet penguin #penguin #strangepets #maybeoneday"
+Nov 11 19:07:21 ip-172-30-0-84 bibimbot: JoseClark92 error tweeting -> Twitter API returned a 403 (Forbidden), Application cannot perform write actions. Contact Twitter Platform Operations through https://support.twitter.com/forms/platform
+Nov 11 19:07:21 ip-172-30-0-84 bibimbot: twitter,uid,bibimbot,umich,JoseClark92,tweet,[u'"Sometimes', u'I', u'wish', u'I', u'had', u'a', u'pet', u'penguin', u'#penguin', u'#strangepets', u'#maybeoneday"']
+Nov 11 20:28:17 ip-172-30-0-84 bibimbot: JoseClark92 is tweeting First tweet using SocialSynergy! I really like this app! #SocialSynergy
+Nov 11 20:28:17 ip-172-30-0-84 bibimbot: JoseClark92 error tweeting -> Twitter API returned a 401 (Unauthorized), Could not authenticate you
+Nov 11 20:28:17 ip-172-30-0-84 bibimbot: twitter,uid,bibimbot,umich,JoseClark92,tweet,[u'First', u'tweet', u'using', u'SocialSynergy!', u'I', u'really', u'like', u'this', u'app!', u'#SocialSynergy']
+Nov 11 20:36:16 ip-172-30-0-84 bibimbot: JoseClark92 is tweeting First tweet from SocialSynergy! I really like this app! #SocialSynergy
+Nov 11 20:36:16 ip-172-30-0-84 bibimbot: JoseClark92 error tweeting -> Twitter API returned a 401 (Unauthorized), Could not authenticate you
+Nov 11 20:36:16 ip-172-30-0-84 bibimbot: twitter,uid,bibimbot,umich,JoseClark92,tweet,[u'First', u'tweet', u'from', u'SocialSynergy!', u'I', u'really', u'like', u'this', u'app!', u'#SocialSynergy']
+Nov 11 20:40:34 ip-172-30-0-84 bibimbot: JoseClark92 is tweeting First tweet using SocialSynergy! #SocialSynergy
+Nov 11 20:40:34 ip-172-30-0-84 bibimbot: JoseClark92 error tweeting -> Twitter API returned a 401 (Unauthorized), Could not authenticate you
+Nov 11 20:40:34 ip-172-30-0-84 bibimbot: twitter,uid,bibimbot,umich,JoseClark92,tweet,[u'First', u'tweet', u'using', u'SocialSynergy!', u'#SocialSynergy']
+Nov 11 20:52:18 ip-172-30-0-84 bibimbot: JoseClark92 is tweeting First tweet using SocialSynergy! #SocialSynergy
+Nov 11 20:52:18 ip-172-30-0-84 bibimbot: JoseClark92 error tweeting -> Twitter API returned a 401 (Unauthorized), Could not authenticate you
+Nov 11 20:52:18 ip-172-30-0-84 bibimbot: twitter,uid,bibimbot,umich,JoseClark92,tweet,[u'First', u'tweet', u'using', u'SocialSynergy!', u'#SocialSynergy']
+Nov 11 20:55:23 ip-172-30-0-84 bibimbot: Loaded bot bibimbot, connecting to ix.undernet.org:6667 and channel #flock
+Nov 11 20:56:21 ip-172-30-0-84 bibimbot: JoseClark92 is tweeting First tweet using SocialSynergy! I love this app! #SocialSynergy #thefutureishere
+Nov 11 20:56:22 ip-172-30-0-84 bibimbot: twitter,uid,bibimbot,umich,JoseClark92,tweet,[u'First', u'tweet', u'using', u'SocialSynergy!', u'I', u'love', u'this', u'app!', u'#SocialSynergy', u'#thefutureishere']
+Nov 11 21:20:58 ip-172-30-0-84 bibimbot: Loaded bot bibimbot, connecting to ix.undernet.org:6667 and channel #flock
+Nov 11 21:24:34 ip-172-30-0-84 bibimbot: twitter,uid,bibimbot,umich,bbenson1425,tweet,[u'This', u'pretty', u'much', u'sums', u'up', u'my', u'life', u'lol', u'http://goo.gl/d6j2rw', u'#gettingweird', u'#idc', u'#umich', u'#umichproblems']
+Nov 11 21:24:45 ip-172-30-0-84 bibimbot: MaryJJordan1 is tweeting This pretty much sums up my life lol http://goo.gl/d6j2rw #gettingweird #idc #umich #umichproblems
+Nov 11 21:24:45 ip-172-30-0-84 bibimbot: twitter,uid,bibimbot,umich,MaryJJordan1,tweet,[u'This', u'pretty', u'much', u'sums', u'up', u'my', u'life', u'lol', u'http://goo.gl/d6j2rw', u'#gettingweird', u'#idc', u'#umich', u'#umichproblems']
+Nov 12 01:49:10 ip-172-30-0-84 bibimbot: Loaded bot bibimbot, connecting to ix.undernet.org:6667 and channel #flock
+Nov 12 01:53:23 ip-172-30-0-84 bibimbot: Loaded bot bibimbot, connecting to ix.undernet.org:6667 and channel #flock
+Nov 12 01:55:23 ip-172-30-0-84 bibimbot: Loaded bot bibimbot, connecting to ix.undernet.org:6667 and channel #flock
+Nov 12 01:59:02 ip-172-30-0-84 bibimbot: MaryJJordan1 is tweeting Check pleeeeaaase!
+Nov 12 01:59:02 ip-172-30-0-84 bibimbot: twitter,uid,bibimbot,umich,MaryJJordan1,tweet,[u'Check', u'pleeeeaaase!']
+Nov 12 02:07:15 ip-172-30-0-84 bibimbot: Loaded bot bibimbot, connecting to ix.undernet.org:6667 and channel #flock
+Nov 12 02:08:55 ip-172-30-0-84 bibimbot: MaryJJordan1 error deleting tweet -> global name 'delete_tweet' is not defined
+Nov 12 02:11:43 ip-172-30-0-84 bibimbot: Loaded bot bibimbot, connecting to ix.undernet.org:6667 and channel #flock
+Nov 12 02:12:10 ip-172-30-0-84 bibimbot: MaryJJordan1 error deleting tweet -> global name 'delete_tweet' is not defined
+Nov 12 02:13:15 ip-172-30-0-84 bibimbot: Loaded bot bibimbot, connecting to ix.undernet.org:6667 and channel #flock
+Nov 12 02:13:46 ip-172-30-0-84 bibimbot: Loaded bot bibimbot, connecting to ix.undernet.org:6667 and channel #flock
+Nov 12 02:14:13 ip-172-30-0-84 bibimbot: MaryJJordan1 error deleting tweet -> global name 'delete_tweet' is not defined
+Nov 12 02:15:09 ip-172-30-0-84 bibimbot: Loaded bot bibimbot, connecting to ix.undernet.org:6667 and channel #flock
+Nov 12 02:15:22 ip-172-30-0-84 bibimbot: MaryJJordan1 error deleting tweet -> destroy_status() takes exactly 1 argument (2 given)
+Nov 12 02:17:07 ip-172-30-0-84 bibimbot: Loaded bot bibimbot, connecting to ix.undernet.org:6667 and channel #flock
+Nov 12 02:17:22 ip-172-30-0-84 bibimbot: MaryJJordan1 error deleting tweet -> destroy_status() takes exactly 1 argument (2 given)
+Nov 12 02:19:03 ip-172-30-0-84 bibimbot: Loaded bot bibimbot, connecting to ix.undernet.org:6667 and channel #flock
+Nov 12 02:19:13 ip-172-30-0-84 bibimbot: MaryJJordan1 error deleting tweet -> destroy_status() takes exactly 1 argument (2 given)
+Nov 12 02:23:52 ip-172-30-0-84 bibimbot: Loaded bot bibimbot, connecting to ix.undernet.org:6667 and channel #flock
+Nov 12 02:24:03 ip-172-30-0-84 bibimbot: MaryJJordan1 error deleting tweet -> delete_tweet() got an unexpected keyword argument 'id'
+Nov 12 02:25:46 ip-172-30-0-84 bibimbot: Loaded bot bibimbot, connecting to ix.undernet.org:6667 and channel #flock
+Nov 12 02:25:59 ip-172-30-0-84 bibimbot: MaryJJordan1 error deleting tweet -> delete_tweet() got an unexpected keyword argument 'id'
+Nov 12 02:26:38 ip-172-30-0-84 bibimbot: Loaded bot bibimbot, connecting to ix.undernet.org:6667 and channel #flock
+Nov 12 02:26:57 ip-172-30-0-84 bibimbot: MaryJJordan1 error deleting tweet -> destroy_status() takes exactly 1 argument (2 given)
+Nov 12 02:28:31 ip-172-30-0-84 bibimbot: Loaded bot bibimbot, connecting to ix.undernet.org:6667 and channel #flock
+Nov 12 02:36:36 ip-172-30-0-84 bibimbot: Loaded bot bibimbot, connecting to ix.undernet.org:6667 and channel #flock
+Nov 12 02:39:08 ip-172-30-0-84 bibimbot: AnnaNicholas10 is tweeting Look, we bought a Zhu! #zhumcgoo #weboughtazoo
+Nov 12 02:39:08 ip-172-30-0-84 bibimbot: twitter,uid,bibimbot,umich,AnnaNicholas10,tweet,[u'Look,', u'we', u'bought', u'a', u'Zhu!', u'#zhumcgoo', u'#weboughtazoo']
+Nov 12 02:52:53 ip-172-30-0-84 bibimbot: Loaded bot bibimbot, connecting to ix.undernet.org:6667 and channel #flock
+Nov 12 02:54:57 ip-172-30-0-84 bibimbot: JuliaMoreson is tweeting Shine on you crazy diamond
+Nov 12 02:54:57 ip-172-30-0-84 bibimbot: twitter,uid,bibimbot,umich,JuliaMoreson,tweet,[u'Shine', u'on', u'you', u'crazy', u'diamond']
+Nov 12 02:55:18 ip-172-30-0-84 bibimbot: JuliaMoreson is tweeting I like butt pirates #buttpirates
+Nov 12 02:55:18 ip-172-30-0-84 bibimbot: twitter,uid,bibimbot,umich,JuliaMoreson,tweet,[u'I', u'like', u'butt', u'pirates', u'#buttpirates']
+Nov 10 16:29:27 ip-172-30-0-84 bibimbot: Loaded bot bibimbot, connecting to ix.undernet.org:6667 and channel #flock
+Nov 11 04:09:53 ip-172-30-0-84 bibimbot: Loaded bot bibimbot, connecting to ix.undernet.org:6667 and channel #flock
+Nov 11 04:15:37 ip-172-30-0-84 bibimbot: twitter,uid,bibimbot,umich,bbenson1425,tweet,[u'So', u'grateful', u'to', u'hear', u'my', u'grandmother', u'today.', u':)']
+Nov 11 04:16:09 ip-172-30-0-84 bibimbot: bbenson1425 is tweeting So grateful to hear my grandmother today. :)
+Nov 11 04:16:09 ip-172-30-0-84 bibimbot: bbenson1425 error tweeting -> Twitter API returned a 403 (Forbidden), Application cannot perform write actions. Contact Twitter Platform Operations through https://support.twitter.com/forms/platform
+Nov 11 04:16:09 ip-172-30-0-84 bibimbot: twitter,uid,bibimbot,umich,bbenson1425,tweet,[u'So', u'grateful', u'to', u'hear', u'my', u'grandmother', u'today.', u':)']

@@ -1,0 +1,12 @@
+Customized Scheduler written in Java
+
+Build from root.
+javac -cp src/ -d bin/ com.bibimbot.ircbotscheduler.scheduler.SchedulerServer.java
+javac -cp src/ -d bin/ com.bibimbot.ircbotscheduler.scheduler.SchedulerClient.java
+
+To run, must be in /bin/. 
+Usage:
+java com.bibimbot.ircbotscheduler.scheduler.SchedulerServer [port]
+java com.bibimbot.ircbotscheduler.scheduler.SchedulerClient [IP] [port]
+
+port must be the same between Server and Client. Server must be running before Client is started. Must run birdie.py before Server is running.
